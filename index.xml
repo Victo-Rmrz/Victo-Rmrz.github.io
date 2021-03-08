@@ -8,6 +8,33 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://victo-rmrz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cobalt</title>
+      <link>https://victo-rmrz.github.io/docs/cobalt/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/docs/cobalt/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Espacio Inmersivo</title>
+      <link>https://victo-rmrz.github.io/docs/museo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/docs/museo/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Proyecto Jardín Infantil</title>
+      <link>https://victo-rmrz.github.io/docs/habitaculo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/docs/habitaculo/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
       <title>Ejemplo Shortcodes</title>
       <link>https://victo-rmrz.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
