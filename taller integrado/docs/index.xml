@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taller Integrado MID 2021 on Maria Victoria Ramirez - MID 2021</title>
+    <link>https://victo-rmrz.github.io/taller-integrado/docs/</link>
+    <description>Recent content in Taller Integrado MID 2021 on Maria Victoria Ramirez - MID 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://victo-rmrz.github.io/taller-integrado/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>E-00</title>
+      <link>https://victo-rmrz.github.io/taller-integrado/docs/encargo00/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/taller-integrado/docs/encargo00/</guid>
+      <description>Proyectos realizados en el transcuro de la carrera que han llamado mi atención</description>
+    </item>
+    
+    <item>
+      <title>E-01</title>
+      <link>https://victo-rmrz.github.io/taller-integrado/docs/encargo01/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/taller-integrado/docs/encargo01/</guid>
+      <description>Planos de Luz</description>
+    </item>
+    
+    <item>
+      <title>E-02</title>
+      <link>https://victo-rmrz.github.io/taller-integrado/docs/encargo02/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/taller-integrado/docs/encargo02/</guid>
+      <description>Volumen de Luz - Animaciones Análogas y Digitales</description>
+    </item>
+    
+    <item>
+      <title>E-03</title>
+      <link>https://victo-rmrz.github.io/taller-integrado/docs/encargo03/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/taller-integrado/docs/encargo03/</guid>
+      <description>Animaciones Digitales - Upgrade del post 02</description>
+    </item>
+    
+    <item>
+      <title>E-04</title>
+      <link>https://victo-rmrz.github.io/taller-integrado/docs/encargo04/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/taller-integrado/docs/encargo04/</guid>
+      <description>Compilación y Relato del plano al Volumen de Luz</description>
+    </item>
+    
+    <item>
+      <title>E-05</title>
+      <link>https://victo-rmrz.github.io/taller-integrado/docs/encargo05/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/taller-integrado/docs/encargo05/</guid>
+      <description>Fusion 360</description>
+    </item>
+    
+    <item>
+      <title>E-06</title>
+      <link>https://victo-rmrz.github.io/taller-integrado/docs/encargo06/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/taller-integrado/docs/encargo06/</guid>
+      <description>Fusion 360</description>
+    </item>
+    
+    <item>
+      <title>Examen</title>
+      <link>https://victo-rmrz.github.io/taller-integrado/docs/examen/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/taller-integrado/docs/examen/</guid>
+      <description>MetroFoil</description>
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://victo-rmrz.github.io/taller-integrado/docs/programa-creativo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/taller-integrado/docs/programa-creativo/</guid>
+      <description>Photoshop</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://victo-rmrz.github.io/taller-integrado/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/taller-integrado/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://victo-rmrz.github.io/taller-integrado/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/taller-integrado/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+  </channel>
+</rss>
