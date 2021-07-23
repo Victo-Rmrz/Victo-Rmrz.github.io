@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller Espacio y Ciudad on María Victoria Ramírez</title>
+    <title>Maria Victoria Ramirez on María Victoria Ramírez</title>
     <link>https://victo-rmrz.github.io/taller-ciudad-espacio/</link>
-    <description>Recent content in Taller Espacio y Ciudad on María Victoria Ramírez</description>
+    <description>Recent content in Maria Victoria Ramirez on María Victoria Ramírez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 May 2021 19:30:08 +1000</lastBuildDate><atom:link href="https://victo-rmrz.github.io/taller-ciudad-espacio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>E01</title>
+      <title>1 - TEMA</title>
+      <link>https://victo-rmrz.github.io/taller-ciudad-espacio/docs/e03/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/taller-ciudad-espacio/docs/e03/</guid>
+      <description>TEMA</description>
+    </item>
+    
+    <item>
+      <title>2 - DIBUJOS</title>
       <link>https://victo-rmrz.github.io/taller-ciudad-espacio/docs/e01/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
       <guid>https://victo-rmrz.github.io/taller-ciudad-espacio/docs/e01/</guid>
-      <description>ENCARGO 01</description>
+      <description>DIBUJOS</description>
     </item>
     
     <item>
-      <title>Valor Endógeno</title>
+      <title>3 - PROPUESTA DE VALOR</title>
       <link>https://victo-rmrz.github.io/taller-ciudad-espacio/docs/e02/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
@@ -32,6 +41,15 @@
       
       <guid>https://victo-rmrz.github.io/taller-ciudad-espacio/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>5 - MODELO 3D</title>
+      <link>https://victo-rmrz.github.io/taller-ciudad-espacio/docs/e05/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/taller-ciudad-espacio/docs/e05/</guid>
+      <description>MODELO 3D</description>
     </item>
     
     <item>

@@ -8,16 +8,25 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://victo-rmrz.github.io/taller-ciudad-espacio/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>E01</title>
+      <title>1 - TEMA</title>
+      <link>https://victo-rmrz.github.io/taller-ciudad-espacio/docs/e03/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/taller-ciudad-espacio/docs/e03/</guid>
+      <description>TEMA</description>
+    </item>
+    
+    <item>
+      <title>2 - DIBUJOS</title>
       <link>https://victo-rmrz.github.io/taller-ciudad-espacio/docs/e01/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
       <guid>https://victo-rmrz.github.io/taller-ciudad-espacio/docs/e01/</guid>
-      <description>ENCARGO 01</description>
+      <description>DIBUJOS</description>
     </item>
     
     <item>
-      <title>Valor Endógeno</title>
+      <title>3 - PROPUESTA DE VALOR</title>
       <link>https://victo-rmrz.github.io/taller-ciudad-espacio/docs/e02/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
@@ -32,6 +41,15 @@
       
       <guid>https://victo-rmrz.github.io/taller-ciudad-espacio/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>5 - MODELO 3D</title>
+      <link>https://victo-rmrz.github.io/taller-ciudad-espacio/docs/e05/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://victo-rmrz.github.io/taller-ciudad-espacio/docs/e05/</guid>
+      <description>MODELO 3D</description>
     </item>
     
     <item>
